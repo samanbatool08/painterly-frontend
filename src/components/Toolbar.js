@@ -21,7 +21,7 @@ function Toolbar (props) {
     const userId = props.user.id
 
     function submitPainting() {
-        fetch('http://localhost:3000/paintings', {
+        fetch('https://painterly-app-api.herokuapp.com/paintings', {
         method: "POST",
         headers: {'content-type': 'application/json',
                 accepts: 'application/json'},

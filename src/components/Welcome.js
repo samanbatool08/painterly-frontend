@@ -25,7 +25,7 @@ class Welcome extends React.Component  {
     handleFormClick = (e) => {
         e.preventDefault()
         if (e.target.name  === "login") {
-            fetch('http://localhost:3000/login', {
+            fetch('https://painterly-app-api.herokuapp.com/login', {
                 method: "POST",
                 headers: {'content-type': 'application/json',
                         accepts: 'application/json'},
@@ -46,7 +46,7 @@ class Welcome extends React.Component  {
                 }
             })
         } else if (e.target.name === "signup") {
-            fetch('http://localhost:3000/signup',{
+            fetch('https://painterly-app-api.herokuapp.com/signup',{
             method: "POST",
             headers: {'content-type': 'application/json',
                     accepts: 'application/json'},
