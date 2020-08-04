@@ -14,7 +14,7 @@ Features:
 6. HTML/CSS used optimizing bootstrap and flex.
 
 Watch Demo here:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VAqojoB4fyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 https://www.youtube.com/watch?v=VAqojoB4fyE&t=2s
 
 
