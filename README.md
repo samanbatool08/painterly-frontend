@@ -2,10 +2,10 @@
 
 ###### Painterly allows users to create customized paintings using a color toolbar. Users can save their paintings to edit later or add them to personal or public collections based on user choice. 
 
-## You can find the Rails API backend for this app here: https://github.com/samanbatool08/Painterly-backend
+###### You can find the Rails API backend for this app here: https://github.com/samanbatool08/Painterly-backend
 
 
-## Live website to try out yourself: https://painterly-drawing-app.herokuapp.com/
+###### Live website to try out yourself: https://painterly-drawing-app.herokuapp.com/
 
 ## Features: 
 
@@ -16,7 +16,7 @@
 ###### 5. API integration followed using RESTful conventions 
 ###### 6. HTML/CSS used optimizing bootstrap and flex.
 
-## Watch Demo here: https://www.youtube.com/watch?v=VAqojoB4fyE&t=2s
+###### Watch Demo here: https://www.youtube.com/watch?v=VAqojoB4fyE&t=2s
 
 
 
