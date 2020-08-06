@@ -1,4 +1,4 @@
-# Painterly 
+# Painterly - React JS / Ruby on Rails
 
 ###### Painterly allows users to create customized paintings using a color toolbar. Users can save their paintings to edit later or add them to personal or public collections based on user choice. 
 
