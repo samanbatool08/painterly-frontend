@@ -16,7 +16,9 @@
 ###### 5. API integration followed using RESTful conventions 
 ###### 6. HTML/CSS used optimizing bootstrap and flex.
 
-###### Watch Demo here: https://www.youtube.com/embed/5DfmpRz1lyc
+###### Watch Demo here: https://youtu.be/VAqojoB4fyE
+
+[![JAVA BASIC](https://img.youtube.com/vi/VAqojoB4fyE/0.jpg)](https://www.youtube.com/watch?v=VAqojoB4fyE)
 
 
 
